@@ -1,0 +1,11 @@
+c:\users\pierre\documents\visual studio 2017\Projects\TimeI\TimeI\bin\Debug\netcoreapp2.0\TimeI.deps.json
+c:\users\pierre\documents\visual studio 2017\Projects\TimeI\TimeI\bin\Debug\netcoreapp2.0\TimeI.runtimeconfig.json
+c:\users\pierre\documents\visual studio 2017\Projects\TimeI\TimeI\bin\Debug\netcoreapp2.0\TimeI.runtimeconfig.dev.json
+c:\users\pierre\documents\visual studio 2017\Projects\TimeI\TimeI\bin\Debug\netcoreapp2.0\TimeI.dll
+c:\users\pierre\documents\visual studio 2017\Projects\TimeI\TimeI\bin\Debug\netcoreapp2.0\TimeI.pdb
+c:\users\pierre\documents\visual studio 2017\Projects\TimeI\TimeI\obj\Debug\netcoreapp2.0\TimeI.csprojResolveAssemblyReference.cache
+c:\users\pierre\documents\visual studio 2017\Projects\TimeI\TimeI\obj\Debug\netcoreapp2.0\TimeI.csproj.CoreCompileInputs.cache
+c:\users\pierre\documents\visual studio 2017\Projects\TimeI\TimeI\obj\Debug\netcoreapp2.0\TimeI.AssemblyInfoInputs.cache
+c:\users\pierre\documents\visual studio 2017\Projects\TimeI\TimeI\obj\Debug\netcoreapp2.0\TimeI.AssemblyInfo.cs
+c:\users\pierre\documents\visual studio 2017\Projects\TimeI\TimeI\obj\Debug\netcoreapp2.0\TimeI.dll
+c:\users\pierre\documents\visual studio 2017\Projects\TimeI\TimeI\obj\Debug\netcoreapp2.0\TimeI.pdb

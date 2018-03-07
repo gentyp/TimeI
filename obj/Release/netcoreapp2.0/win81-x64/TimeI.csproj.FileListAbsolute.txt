@@ -1,0 +1,11 @@
+C:\Users\Pierre\documents\visual studio 2017\Projects\TimeI\TimeI\bin\Release\netcoreapp2.0\win81-x64\hostpolicy.dll
+C:\Users\Pierre\documents\visual studio 2017\Projects\TimeI\TimeI\bin\Release\netcoreapp2.0\win81-x64\hostfxr.dll
+C:\Users\Pierre\documents\visual studio 2017\Projects\TimeI\TimeI\bin\Release\netcoreapp2.0\win81-x64\TimeI.exe
+C:\Users\Pierre\documents\visual studio 2017\Projects\TimeI\TimeI\bin\Release\netcoreapp2.0\win81-x64\TimeI.deps.json
+C:\Users\Pierre\documents\visual studio 2017\Projects\TimeI\TimeI\bin\Release\netcoreapp2.0\win81-x64\TimeI.runtimeconfig.json
+C:\Users\Pierre\documents\visual studio 2017\Projects\TimeI\TimeI\bin\Release\netcoreapp2.0\win81-x64\TimeI.runtimeconfig.dev.json
+C:\Users\Pierre\documents\visual studio 2017\Projects\TimeI\TimeI\bin\Release\netcoreapp2.0\win81-x64\TimeI.dll
+C:\Users\Pierre\documents\visual studio 2017\Projects\TimeI\TimeI\obj\Release\netcoreapp2.0\win81-x64\TimeI.csproj.CoreCompileInputs.cache
+C:\Users\Pierre\documents\visual studio 2017\Projects\TimeI\TimeI\obj\Release\netcoreapp2.0\win81-x64\TimeI.AssemblyInfoInputs.cache
+C:\Users\Pierre\documents\visual studio 2017\Projects\TimeI\TimeI\obj\Release\netcoreapp2.0\win81-x64\TimeI.AssemblyInfo.cs
+C:\Users\Pierre\documents\visual studio 2017\Projects\TimeI\TimeI\obj\Release\netcoreapp2.0\win81-x64\TimeI.csprojResolveAssemblyReference.cache
